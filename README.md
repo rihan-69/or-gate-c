@@ -13,3 +13,5 @@ gcc gates.c -o gates -lm
 - MSE cost function
 - Finite difference gradient approximation
 - Converges in ~100,000 iterations
+ ## loss curve
+![loss Curve](cost.png)
